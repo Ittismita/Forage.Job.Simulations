@@ -8,5 +8,7 @@ Worked examples covering:
 - Setting up a new sheet (header, font selection and font size, column and row sizing)
 
 ## TASK2.xlsx
-To build out forecast assumptions.
+To build out forecast assumptions based on the information from the client contained within the file. The operating assumptions are split out between Revenue, Costs, Cash Flow and Other.
+
+
 
