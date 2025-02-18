@@ -82,6 +82,19 @@ Tableau Dashboard Link: https://public.tableau.com/shared/H3KN44P69?:display_cou
 
 ![Dashboard](https://github.com/Ittismita/forage-job-simulations/blob/main/TATA%20-%20Data%20Visualization%3A%20Empowering%20Business%20with%20Effective%20Insights/Retail%20Dashboard.jpg)
 
+## Task 3:
+### Presenting findings to the CMO and CEO:
+
+Process:
+1. Loaded Data into Tableau.
+2. Used Data Source Filter to exclude data points that do not match the prevously mentioned conditions.
+3. Chose the correct visuals that would depict the findings efficiently.
+
+Findings:
+1. The revenue in the first 8 months is fairly constant as the average revenue generated for these 8 months is around $685k. The increase in revenue starts in the month of September, where the revenue increases by 40% over the previous month. This trend continues till the month of November where it reached 1.5 million USD, the highest during the entire year. The data is incomplete for the month of December, therefore, no conclusion can be drawn from it, unfortunately. This analysis shows that the retail store sales are impacted by the seasonality which usually occurs in the last 4 months of the year.
+2. Leaving out U.K. as the country already has high demand, the other countries / regions which have bought high volumes of units and generated high revenue were Netherlands, followed by EIRE(Ireland), Germany and France. 
+3. The data shows that there is not much of a difference between the purchases made by the top 10 customers. The highest revenue generating customer only purchased 17% more than the 2nd highest which shows that the business is not relying only on a few customers to generate the revenue.
+4. The map chart shows the regions that have generated the most revenue compared with the regions that have not. It can be seen that apart from the UK, countries such as Netherlands,Ireland, Germany, France and Australia are generating high revenue and the company should invest more in these areas to increase demand for products. The map also shows that most of the sales are only in the European region with very few in the American region. Africa and Asia do not have any demand for the products, along with Russia. A new strategy targeting these areas has the potential to boost sales revenues and profitability.
 
 
 
