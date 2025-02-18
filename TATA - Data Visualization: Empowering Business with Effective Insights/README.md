@@ -73,6 +73,9 @@ The visual chosen: Map Chart
 
 Tableau Dashboard Link: https://public.tableau.com/shared/H3KN44P69?:display_count=n&:origin=viz_share_link
 
+![Dashboard](https://github.com/Ittismita/forage-job-simulations/blob/main/TATA%20-%20Data%20Visualization%3A%20Empowering%20Business%20with%20Effective%20Insights/Retail%20Dashboard.jpg)
+
+
 
 
 
