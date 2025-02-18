@@ -48,6 +48,13 @@ Understand that business requirement. Once you have an idea of what is required 
 
 ***Action*** :
 
+Data Cleanup:
+1. Filtering the data to include only the records with:
+   
+   a. Unit Price >= $0
+   
+   b. Quantity >= 1
+
 Choosing the right visuals for the below scenarios:
 1. The CEO of the retail store is interested to view the time series of the revenue data for the entire year. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
    
