@@ -19,3 +19,15 @@ They are looking for a solution that can:
    3. Document your findings, including data patterns and anomalies that may impact predictions.
 
    Ensure completeness, flag potential gaps and identify patterns in the datasets.
+
+   #### Action
+   1. Understood customer risk factors for delinquency:
+      a. Payment history – Customers with a history of late or missed payments are more likely to default.
+      b. Credit utilization rate – High usage of available credit can indicate financial stress and potential repayment issues.
+      c. Debt-to-income (DTI) ratio – A high DTI suggests a customer may struggle to manage their financial obligations.
+      d. Recent credit activity – A sudden increase in new credit accounts or loan applications may signal financial instability.
+      e. Employment and income stability – Frequent job changes or inconsistent income can contribute to a higher risk of missed payments.
+      f. Demographic trends – While AI models must avoid bias, certain patterns (e.g., younger customers with limited credit history) may require additional analysis.
+
+   2. Reviewed dataset and identified key insights:
+      
